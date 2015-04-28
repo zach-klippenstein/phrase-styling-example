@@ -1,0 +1,11 @@
+<resources>
+  <string name="app_name">Phrase Styling Example</string>
+
+  <string name="pattern_label">Source Pattern:</string>
+  <string name="a_label">Value for \'a\':</string>
+  <string name="b_label">Value for \'b\':</string>
+  <string name="output_label">Result:</string>
+
+  <!-- Font color is #aarrggbb where aa is alpha. -->
+  <string name="pattern">{a} is {b} <font color="#ffaabbcc">awesome</font>!</string>
+</resources>
