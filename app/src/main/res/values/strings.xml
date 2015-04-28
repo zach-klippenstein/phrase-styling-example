@@ -8,4 +8,5 @@
 
   <!-- Font color is #aarrggbb where aa is alpha. -->
   <string name="pattern">{a} is {b} <font color="#ffaabbcc">awesome</font>!</string>
+
 </resources>
